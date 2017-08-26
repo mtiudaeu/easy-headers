@@ -13,7 +13,7 @@ struct App {
       DEBUG
     };
 
-    Level  m_level = Level::INFO;
+    Level  m_level = Level::DEBUG;
 
     Module() {}
     Module(Module::Level level) : m_level(level) {}
