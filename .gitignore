@@ -1,3 +1,10 @@
+# default build folder
+build
+
+# vim
+*.swp
+
+# -- auto-generated --
 # Prerequisites
 *.d
 
